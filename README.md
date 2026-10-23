@@ -54,6 +54,7 @@
 - [Bitcoin Basics - River Financial](https://river.com/learn/bitcoin-basics/)
 - [Bitcoin Resources](https://bitcoin-resources.com/)
 - [Learn me a Bitcoin](https://learnmeabitcoin.com/)
+- [LearnBitcoin - The Journey](https://www.learnbitcoin.com/journey)
 - [Blockchain and cryptocurrency](https://web.archive.org/web/20251210144642/https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6)
 - [Bitcoin-only](https://bitcoin-only.com/)
 
